@@ -1,4 +1,4 @@
-# Sorting for beginers
+# Sorting for beginners
 
 ### About this project
 
